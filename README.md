@@ -18,6 +18,12 @@
   - <a href="https://github.com/eulucasm/teste2-node" target="_blank">Desafio 2: Trabalhando com Middlewares</a>
   - <a href="https://github.com/eulucasm/teste3-node" target="_blank">Desafio 3: Corrigindo o código já existente</a>
 
+**Módulo 2 (Modulo iniciado)**
+
+- Aqui ja comecei a estuder e entender o typescript, iniciando a construção de APIs, padrões de codigo, SOLID, etc.
+- Alem disso, Foi ministrado conceitos importes como casos de uso, repositorios, models, strems do node e documentação utilizando o Swagger.
+- Como de costume, abaixo vou deixar os links para acesso aos repositorios de estudo e testes:
+  - <a href="https://github.com/eulucasm/Ignite-node-modulo2" target="_blank">Repositorio dos estudos referente ao modulo</a>
 
 
 
