@@ -25,7 +25,7 @@
 - Como de costume, abaixo vou deixar os links para acesso aos repositorios de estudo e testes:
   - <a href="https://github.com/eulucasm/Ignite-node-modulo2" target="_blank">Repositorio dos estudos referente ao modulo</a>
   - <a href="https://github.com/eulucasm/api-node-ts" target="_blank">Api com Node e TS</a>
-  <a href="https://github.com/eulucasm/desafio1-chapter2" target="_blank">Desafio 1 - Introdução ao SOLID</a>
+  - <a href="https://github.com/eulucasm/desafio1-chapter2" target="_blank">Desafio 1 - Introdução ao SOLID</a>
 
 
 
